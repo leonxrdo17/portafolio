@@ -800,6 +800,7 @@ footer .redes a:hover {
     }
     .portfolio .galeria .proyecto{
         max-width: 100%;
+        margin-bottom: 10%;
     }
     .portfolio .galeria .proyecto img{
         width: 100%;

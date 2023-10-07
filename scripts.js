@@ -16,6 +16,11 @@ function seleccionar(){
     menuVisible = false;
 }
 
+// Metodo enviar
+function metodoEnviar(){
+    alert("Esta sección es demostrativa.");
+}
+
 // Funcion que aplica las animaciones de las habilidades
 function efectoHabilidades(){
     var skills = document.getElementById("skills");
