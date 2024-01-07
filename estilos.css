@@ -323,7 +323,7 @@ html {
 
 @keyframes htmlcssjs {
   0% {width: 0%;}
-  100% {width: 35%;}
+  100% {width: 40%;}
 }
 
 .skills .skill .react {
@@ -333,7 +333,17 @@ html {
 
 @keyframes react {
   0% {width: 0%;}
-  100% {width: 25%;}
+  100% {width: 30%;}
+}
+
+.skills .skill .angular {
+  width: 0%;
+  animation: 2s angular forwards;
+}
+
+@keyframes angular {
+  0% {width: 0%;}
+  100% {width: 30%;}
 }
 
 .skills .skill .c {
@@ -344,6 +354,16 @@ html {
 @keyframes c {
   0% {width: 0%;}
   100% {width: 40%;}
+}
+
+.skills .skill .entity {
+  width: 0%;
+  animation: 2s entity forwards;
+}
+
+@keyframes entity {
+  0% {width: 0%;}
+  100% {width: 30%;}
 }
 
 .skills .skill .b4a {

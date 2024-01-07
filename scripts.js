@@ -29,12 +29,14 @@ function efectoHabilidades(){
         let habilidades = document.getElementsByClassName("progreso");
         habilidades[0].classList.add("htmlcssjs");
         habilidades[1].classList.add("react");
-        habilidades[2].classList.add("c");
-        habilidades[3].classList.add("b4a");
-        habilidades[4].classList.add("sql");
-        habilidades[5].classList.add("empatia");
-        habilidades[6].classList.add("trabajoenequipo");
-        habilidades[7].classList.add("responsabilidad");
+        habilidades[2].classList.add("angular");
+        habilidades[3].classList.add("c");
+        habilidades[4].classList.add("entity");
+        habilidades[5].classList.add("b4a");
+        habilidades[6].classList.add("sql");
+        habilidades[7].classList.add("empatia");
+        habilidades[8].classList.add("trabajoenequipo");
+        habilidades[9].classList.add("responsabilidad");
     }
 }
 // detecto el scrolling para aplicar la animacion de la barrera de habilidades
